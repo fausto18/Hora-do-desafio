@@ -58,7 +58,7 @@ No `index.html`, adicionamos no onclick o seguinte código:
 
 ```js
 function exibirPrompt() {
-    let nomeDaCidade = prompt('Digite o nome de uma cidade do Brasil que você gosta muito:')
+    let nomeDaCidade = prompt('Digite o nome de uma cidade de Angola que você gosta muito:')
     alert(`Estive em ${nomeDaCidade} e lembrei de você`)
 }
 ```
